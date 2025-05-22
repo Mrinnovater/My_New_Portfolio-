@@ -3,12 +3,12 @@ import { Project, Experience, Skill, Social } from '../types';
 export const projects: Project[] = [
   {
     id: 1,
-    title: 'Style Transfer for Art',
-    description: 'Developed an AI-powered style transfer model using TensorFlow Hub and VGG19 to apply artistic styles to images. Utilized deep learning techniques to generate artistic transformations with optimized performance.Improved the model by adjusting VGG19’s layers to better capture artistic details. Used TensorFlow’s features and GPU support to speed up the process and make the transformations more efficient.',
-    technologies: ['Python', 'TensorFlow', 'TensorFlow Hub', 'Keras', 'NumPy', 'Matplotlib'],
-    liveLink: 'https://github.com/Mrinnovater/Generative-AI-Project',
-    githubLink: 'https://github.com/Mrinnovater/Generative-AI-Project',
-    image: 'https://drive.google.com/uc?export=view&id=1Vri43pvFbXEm8mOb4H8zovnWBZyUG8lS',
+    title: 'AI-Powered Image Recognition',
+    description: 'Built a deep learning model using TensorFlow and Python to classify images with 98% accuracy. Implemented a web interface for real-time predictions.',
+    technologies: ['Python', 'TensorFlow', 'React', 'FastAPI'],
+    liveLink: 'https://ai-image-recognition.example.com',
+    githubLink: 'https://github.com/username/ai-image-recognition',
+    image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg',
   },
   {
     id: 2,
@@ -100,29 +100,26 @@ export const skills: Skill[] = [
 ];
 
 export const socials: Social[] = [
-  { id: 1, name: 'GitHub', url: 'https://github.com/yourusername', icon: 'github' },
-  { id: 2, name: 'LinkedIn', url: 'https://linkedin.com/in/yourusername', icon: 'linkedin' },
-  { id: 3, name: 'Twitter', url: 'https://twitter.com/yourusername', icon: 'twitter' },
-  { id: 4, name: 'Email', url: 'mailto:your.email@example.com', icon: 'mail' },
+  { id: 1, name: 'GitHub', url: 'https://github.com/Mrinnovater', icon: 'github' },
+  { id: 2, name: 'LinkedIn', url: 'https://www.linkedin.com/in/ch-venkata-shiva-sri-976245296/', icon: 'linkedin' },
+  { id: 3, name: 'Twitter', url: 'https://x.com/Shivashetty786', icon: 'twitter' },
+  { id: 4, name: 'Email', url: 'mailto:shivamchodisetty333@gmail.com', icon: 'mail' },
 ];
 
 export const about = {
-  name: 'Ch Venkata Shiva Sri',
-  title: 'B.Tech Student | AI/ML Specialist | Software Developer',
-  description: `As a passionate third-year B.Tech student specializing in Computer Science with AI/ML, I combine theoretical knowledge with practical experience to create innovative solutions. My academic journey has been marked by a deep dive into artificial intelligence, machine learning, and software development.
-
-Through multiple internships and projects, I've gained hands-on experience in developing AI/ML models, building scalable applications, and solving complex technical challenges. I'm particularly interested in computer vision, natural language processing, and the application of AI in healthcare and finance.
-
-I'm constantly exploring new technologies and methodologies, believing that continuous learning is key to staying at the forefront of technological innovation. My goal is to leverage AI/ML technologies to create solutions that make a meaningful impact on society.`,
+  name: 'Venkata Shiva Sri Chodisetty',
+  title: 'Frontend Developer | Backend Developer | AI & ML Enthusiast',
+  description: `As a dedicated B.Tech student and AI & ML enthusiast, I have been consistently sharpening my skills in coding and software development sector through rigid practice and real-time projects. Eager to Apply My Skills in Innovative & Creative Software Development and AI & ML.
+My passion for AI & ML has led me to build innovative projects during my internship at NxtWave, Google for Developers and I have also developed a range of projects showcased on my GitHub profile.`,
   education: {
     degree: 'Bachelor of Technology',
-    field: 'Computer Science and Engineering (AI/ML)',
-    university: 'Your University Name',
-    year: '2021 - 2025',
+    field: 'Computer Science and Engineering (AI&ML)',
+    university: 'SR University',
+    year: '2022 - 2026',
   },
-  resumeLink: 'https://drive.google.com/uc?export=view&id=1qN-5WamqIpQMK6phdQNVJAmwES53s8PN',
-  profileImage: 'https://drive.google.com/uc?export=view&id=1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp',
-  location: 'Your City, Country',
+  resumeLink: 'https://drive.google.com/file/d/1qN-5WamqIpQMK6phdQNVJAmwES53s8PN/view?usp=drive_link',
+  profileImage: 'https://drive.google.com/file/d/1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp/view?usp=drive_link',
+  location: 'Kodad, Suryapet District, Telangana, India',
   languages: ['English', 'Hindi', 'Telugu'],
-  interests: ['Artificial Intelligence', 'Machine Learning', 'Web Development', 'Open Source'],
+  interests: ['Artificial Intelligence', 'Machine Learning', 'Web Development', 'Innovative Researchs'],
 };
