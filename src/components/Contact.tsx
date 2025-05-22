@@ -51,7 +51,7 @@ const Contact: React.FC = () => {
                   <p className="text-sm text-gray-600 dark:text-gray-400 mb-1">Email</p>
                   <div className="flex items-center">
                     <p className="font-medium text-gray-800 dark:text-white">
-                      email@example.com
+                      shivamchodisetty333@example.com
                     </p>
                     <button
                       onClick={() => copyEmail('email@example.com')}
@@ -108,7 +108,7 @@ const Contact: React.FC = () => {
                   type="text"
                   id="name"
                   className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-800 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary-500"
-                  placeholder="John Doe"
+                  placeholder="P Yesu"
                   required
                 />
               </div>
@@ -124,7 +124,7 @@ const Contact: React.FC = () => {
                   type="email"
                   id="email"
                   className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-800 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary-500"
-                  placeholder="john@example.com"
+                  placeholder="palyesu243@gmail.com"
                   required
                 />
               </div>
@@ -140,7 +140,7 @@ const Contact: React.FC = () => {
                   id="message"
                   rows={5}
                   className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-800 dark:text-white focus:outline-none focus:ring-2 focus:ring-primary-500"
-                  placeholder="Your message here..."
+                  placeholder="Write your message here..."
                   required
                 ></textarea>
               </div>
