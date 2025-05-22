@@ -121,7 +121,7 @@ I'm constantly exploring new technologies and methodologies, believing that cont
     year: '2021 - 2025',
   },
   resumeLink: 'https://example.com/your-resume.pdf',
-  profileImage: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg',
+  profileImage: 'https://drive.google.com/file/d/1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp/view?usp=sharing',
   location: 'Your City, Country',
   languages: ['English', 'Hindi', 'Telugu'],
   interests: ['Artificial Intelligence', 'Machine Learning', 'Web Development', 'Open Source'],
