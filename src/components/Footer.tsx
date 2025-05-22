@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               Shiva<span className="text-secondary-500">Sri</span>
             </p>
             <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
-              B.Tech Student | AI/ML Enthusiast | Software Developer
+              Frontend Developer | Backend Developer | AI & ML Enthusiast
             </p>
           </div>
           
