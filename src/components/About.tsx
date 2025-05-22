@@ -114,7 +114,8 @@ const About: React.FC = () => {
 
             <div className="mt-8 flex flex-wrap gap-4">
               <a
-                href={about.resumeLink}
+                
+                href="https://drive.google.com/file/d/1qN-5WamqIpQMK6phdQNVJAmwES53s8PN/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-primary flex items-center gap-2"
