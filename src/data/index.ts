@@ -89,14 +89,19 @@ export const skills: Skill[] = [
   { id: 5, name: 'Node.js', icon: 'server', category: 'backend' },
   { id: 6, name: 'MongoDB', icon: 'database', category: 'backend' },
   { id: 7, name: 'SQL', icon: 'database', category: 'backend' },
-  { id: 8, name: 'Docker', icon: 'box', category: 'tools' },
+  { id: 8, name: 'php', icon: 'code', category: 'backend' },
   { id: 9, name: 'Git', icon: 'git-branch', category: 'tools' },
-  { id: 10, name: 'AWS', icon: 'cloud', category: 'tools' },
+  { id: 10, name: 'Java', icon: 'code', category: 'backend' },
   { id: 11, name: 'Scikit-learn', icon: 'brain', category: 'ai/ml' },
-  { id: 12, name: 'FastAPI', icon: 'server', category: 'backend' },
-  { id: 13, name: 'TypeScript', icon: 'code', category: 'frontend' },
-  { id: 14, name: 'Kubernetes', icon: 'box', category: 'tools' },
+  { id: 12, name: 'C', icon: 'code', category: 'backend' },
+  { id: 13, name: 'C++', icon: 'code', category: 'backend' },
+  { id: 14, name: 'BootStrap', icon: 'box', category: 'tools' },
   { id: 15, name: 'OpenCV', icon: 'camera', category: 'ai/ml' },
+  { id: 16, name: 'AI', icon: 'code', category: 'ai/ml' },
+  { id: 17, name: 'Machine Learning', icon: 'code', category: 'ai/ml' },
+  { id: 18, name: 'Deep Learning', icon: 'code', category: 'ai/ml' },
+  { id: 19, name: 'Generative AI', icon: 'code', category: 'ai/ml' },
+
 ];
 
 export const socials: Social[] = [
