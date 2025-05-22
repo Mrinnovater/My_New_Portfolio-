@@ -3,12 +3,12 @@ import { Project, Experience, Skill, Social } from '../types';
 export const projects: Project[] = [
   {
     id: 1,
-    title: 'AI-Powered Image Recognition',
-    description: 'Built a deep learning model using TensorFlow and Python to classify images with 98% accuracy. Implemented a web interface for real-time predictions.',
-    technologies: ['Python', 'TensorFlow', 'React', 'FastAPI'],
-    liveLink: 'https://ai-image-recognition.example.com',
-    githubLink: 'https://github.com/username/ai-image-recognition',
-    image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg',
+    title: 'Style Transfer for Art',
+    description: 'Developed an AI-powered style transfer model using TensorFlow Hub and VGG19 to apply artistic styles to images. Utilized deep learning techniques to generate artistic transformations with optimized performance.Improved the model by adjusting VGG19’s layers to better capture artistic details. Used TensorFlow’s features and GPU support to speed up the process and make the transformations more efficient.',
+    technologies: ['Python', 'TensorFlow', 'TensorFlow Hub', 'Keras', 'NumPy', 'Matplotlib'],
+    liveLink: 'https://github.com/Mrinnovater/Generative-AI-Project',
+    githubLink: 'https://github.com/Mrinnovater/Generative-AI-Project',
+    image: 'https://drive.google.com/file/d/1Vri43pvFbXEm8mOb4H8zovnWBZyUG8lS/view?usp=drive_link',
   },
   {
     id: 2,
