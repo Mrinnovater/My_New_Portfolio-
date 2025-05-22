@@ -114,14 +114,13 @@ const About: React.FC = () => {
 
             <div className="mt-8 flex flex-wrap gap-4">
               <a
-                
-                href="https://drive.google.com/file/d/1qN-5WamqIpQMK6phdQNVJAmwES53s8PN/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1qN-5WamqIpQMK6phdQNVJAmwES53s8PN/preview"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn btn-primary flex items-center gap-2"
               >
-                <Download size={18} />
-                Download Resume
+                
+                View Resume
               </a>
               <a href="#contact" className="btn btn-outline">
                 Contact Me
