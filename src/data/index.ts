@@ -120,7 +120,7 @@ I'm constantly exploring new technologies and methodologies, believing that cont
     university: 'Your University Name',
     year: '2021 - 2025',
   },
-  resumeLink: 'https://example.com/your-resume.pdf',
+  resumeLink: 'https://drive.google.com/uc?export=view&id=1qN-5WamqIpQMK6phdQNVJAmwES53s8PN',
   profileImage: 'https://drive.google.com/uc?export=view&id=1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp',
   location: 'Your City, Country',
   languages: ['English', 'Hindi', 'Telugu'],
