@@ -119,9 +119,10 @@ const About: React.FC = () => {
                 rel="noopener noreferrer"
                 className="btn btn-primary flex items-center gap-2"
               >
-                
+                <Download size={18} />
                 View Resume
               </a>
+
               <a href="#contact" className="btn btn-outline">
                 Contact Me
               </a>
