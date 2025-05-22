@@ -126,7 +126,7 @@ const Projects: React.FC = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
         >
           <a
-            href="https://github.com/username"
+            href="https://github.com/Mrinnovater?tab=repositories"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 btn btn-outline"
