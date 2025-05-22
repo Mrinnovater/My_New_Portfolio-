@@ -48,7 +48,7 @@ const Navbar: React.FC = () => {
             href="#home"
             className="text-2xl font-bold text-primary-600 dark:text-primary-400"
           >
-            Shiva<span className="text-secondary-500">Sri</span>
+            Shiva<span className="text-secondary-500"> Chodisetty</span>
           </a>
 
           {/* Desktop Navigation */}
