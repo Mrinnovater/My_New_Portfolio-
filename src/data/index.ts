@@ -8,7 +8,7 @@ export const projects: Project[] = [
     technologies: ['Python', 'TensorFlow', 'TensorFlow Hub', 'Keras', 'NumPy', 'Matplotlib'],
     liveLink: 'https://github.com/Mrinnovater/Generative-AI-Project',
     githubLink: 'https://github.com/Mrinnovater/Generative-AI-Project',
-    image: 'https://drive.google.com/file/d/1Vri43pvFbXEm8mOb4H8zovnWBZyUG8lS/view?usp=drive_link',
+    image: 'https://drive.google.com/uc?export=view&id=1Vri43pvFbXEm8mOb4H8zovnWBZyUG8lS',
   },
   {
     id: 2,
