@@ -2,14 +2,14 @@ import { Project, Experience, Skill, Social } from '../types';
 
 export const projects: Project[] = [
   {
-    id:1 ,
-    title: '🧠 Reuters Word Explorer',
-    description: 'Developed an interactive NLP tool using Word2Vec embeddings and the Reuters dataset, visualizing word relationships and similarities in real-time with Streamlit for an intuitive user experience.',
-    technologies: ['Python', 'NLP', 'Vectorization', 'Scikit-learn','NLTK','NumPy','Text Classification'],
-    liveLink: 'https://mrinnovaterreuterswordexplorer.streamlit.app/',
-    githubLink: 'https://github.com/Mrinnovater/Reuters_word_explorer',
-    image: 'reuters.png',
-  },
+  id: 1,
+  title: '🧠 Reuters Word Explorer',
+  description: 'Developed an interactive NLP tool using Word2Vec embeddings and the Reuters dataset, visualizing word relationships and similarities in real-time with Streamlit for an intuitive user experience.',
+  technologies: ['Python', 'NLP', 'Vectorization', 'Scikit-learn', 'NLTK', 'NumPy', 'Text Classification'],
+  liveLink: 'https://mrinnovaterreuterswordexplorer.streamlit.app/',
+  githubLink: 'https://github.com/Mrinnovater/Reuters_word_explorer',
+  image: 'https://drive.google.com/uc?export=view&id=1SEP7aF-fo8u0X8tN2pPGAnpXq1kkLm-V',
+}
     {
     id:2 ,
     title: 'Chat Bot Development',
