@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.4, duration: 0.5 }}
             >
-              Ch Venkata <span className="text-primary-500">Shiva Sri</span>
+              Venkata Shiva Sri <span className="text-primary-500">Chodisetty</span>
             </motion.h1>
             <motion.h2 
               className="text-xl sm:text-2xl text-gray-600 dark:text-gray-300 mb-6"
@@ -51,7 +51,7 @@ const Hero: React.FC = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.6, duration: 0.5 }}
             >
-              B.Tech Student | AI/ML Enthusiast | Software Developer
+              Frontend Developer | Backend Developer | AI & ML Enthusiast
             </motion.h2>
             <motion.p 
               className="text-gray-600 dark:text-gray-400 max-w-xl mx-auto md:mx-0 mb-8"
