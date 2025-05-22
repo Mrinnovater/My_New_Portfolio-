@@ -8,7 +8,7 @@ export const projects: Project[] = [
   technologies: ['Python', 'NLP', 'Vectorization', 'Scikit-learn', 'NLTK', 'NumPy', 'Text Classification'],
   liveLink: 'https://mrinnovaterreuterswordexplorer.streamlit.app/',
   githubLink: 'https://github.com/Mrinnovater/Reuters_word_explorer',
-  image: 'https://drive.google.com/uc?export=view&id=1SEP7aF-fo8u0X8tN2pPGAnpXq1kkLm-V',
+  image: 'https://ik.imagekit.io/jt2xxcqaw/reuters.png?updatedAt=1747927668012',
 }
     {
     id:2 ,
