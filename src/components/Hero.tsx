@@ -101,13 +101,16 @@ const Hero: React.FC = () => {
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.5 }}
           >
-            <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-r from-primary-500 to-secondary-500 animate-float flex items-center justify-center overflow-hidden">
-              <div className="absolute inset-1 rounded-full bg-white dark:bg-gray-800 flex items-center justify-center">
-                <div className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary-500 to-secondary-500">
-                  VS
-                </div>
-              </div>
+                      <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full bg-gradient-to-r from-primary-500 to-secondary-500 animate-float flex items-center justify-center overflow-hidden">
+            <div className="absolute inset-1 rounded-full bg-white dark:bg-gray-800 flex items-center justify-center">
+              <img 
+                src="https://drive.google.com/file/d/1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp/view?usp=drive_link" 
+                alt="Profile" 
+                className="w-28 h-28 sm:w-36 sm:h-36 rounded-full object-cover" 
+              />
             </div>
+          </div>
+
           </motion.div>
         </div>
         
