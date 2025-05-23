@@ -2,14 +2,14 @@ import { Project, Experience, Skill, Social } from '../types';
 
 export const projects: Project[] = [
   {
-  id: 1,
-  title: '🧠 Reuters Word Explorer',
-  description: 'Developed an interactive NLP tool using Word2Vec embeddings and the Reuters dataset, visualizing word relationships and similarities in real-time with Streamlit for an intuitive user experience.',
-  technologies: ['Python', 'NLP', 'Vectorization', 'Scikit-learn', 'NLTK', 'NumPy', 'Text Classification'],
-  liveLink: 'https://mrinnovaterreuterswordexplorer.streamlit.app/',
-  githubLink: 'https://github.com/Mrinnovater/Reuters_word_explorer',
-  image: 'https://ik.imagekit.io/jt2xxcqaw/reuters.png?updatedAt=1747927668012',
-}
+    id:1 ,
+    title: '🧠 Reuters Word Explorer',
+    description: 'Developed an interactive NLP tool using Word2Vec embeddings and the Reuters dataset, visualizing word relationships and similarities in real-time with Streamlit for an intuitive user experience.',
+    technologies: ['Python', 'NLP', 'Vectorization', 'Scikit-learn','NLTK','NumPy','Text Classification'],
+    liveLink: 'https://mrinnovaterreuterswordexplorer.streamlit.app/',
+    githubLink: 'https://github.com/Mrinnovater/Reuters_word_explorer',
+    image: 'https://drive.google.com/uc?export=view&id=1SEP7aF-fo8u0X8tN2pPGAnpXq1kkLm',
+  },
     {
     id:2 ,
     title: 'Chat Bot Development',
@@ -195,8 +195,8 @@ My passion for AI & ML has led me to build innovative projects during my interns
     university: 'SR University',
     year: '2022 - 2026',
   },
-  resumeLink: 'https://drive.google.com/file/d/1qN-5WamqIpQMK6phdQNVJAmwES53s8PN/view?usp=drive_link',
-  profileImage: 'https://drive.google.com/file/d/1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp/view?usp=drive_link',
+  resumeLink: 'https://drive.google.com/uc?export=view&id=1qN-5WamqIpQMK6phdQNVJAmwES53s8PN',
+  profileImage: 'https://drive.google.com/uc?export=view&id=1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp',
   location: 'Kodad, Suryapet District, Telangana, India',
   languages: ['English', 'Hindi', 'Telugu'],
   interests: ['Artificial Intelligence', 'Machine Learning', 'Web Development', 'Innovative Researchs'],
