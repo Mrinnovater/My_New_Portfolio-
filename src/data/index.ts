@@ -9,6 +9,11 @@ export const projects: Project[] = [
     liveLink: 'https://mrinnovaterreuterswordexplorer.streamlit.app/',
     githubLink: 'https://github.com/Mrinnovater/Reuters_word_explorer',
     image: 'https://drive.google.com/uc?export=view&id=1SEP7aF-fo8u0X8tN2pPGAnpXq1kkLm',
+    screenshots: [
+      'https://drive.google.com/uc?export=view&id=1SEP7aF-fo8u0X8tN2pPGAnpXq1kkLm',
+      'https://drive.google.com/uc?export=view&id=1SEP7aF-fo8u0X8tN2pPGAnpXq1kkLm',
+      'https://drive.google.com/uc?export=view&id=1SEP7aF-fo8u0X8tN2pPGAnpXq1kkLm'
+    ]
   },
     {
     id:2 ,
