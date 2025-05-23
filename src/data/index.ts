@@ -201,7 +201,7 @@ My passion for AI & ML has led me to build innovative projects during my interns
     year: '2022 - 2026',
   },
   resumeLink: 'https://drive.google.com/uc?export=view&id=1qN-5WamqIpQMK6phdQNVJAmwES53s8PN',
-  profileImage: 'https://drive.google.com/uc?export=view&id=1xfBCpOMou7rtWFnyhfb86K0p5SCfP_sp',
+  profileImage: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fch-venkata-shiva-sri-976245296&psig=AOvVaw1WkmP8PGV63UvHRljvZWRK&ust=1748095250922000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCUobnguY0DFQAAAAAdAAAAABAE',
   location: 'Kodad, Suryapet District, Telangana, India',
   languages: ['English', 'Hindi', 'Telugu'],
   interests: ['Artificial Intelligence', 'Machine Learning', 'Web Development', 'Innovative Researchs'],
