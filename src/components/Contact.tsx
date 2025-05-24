@@ -43,26 +43,52 @@ const Contact: React.FC = () => {
             </h3>
 
             <div className="space-y-6">
-              <div className="flex items-center">
-                <div className="w-12 h-12 rounded-full bg-primary-100 dark:bg-primary-900/50 flex items-center justify-center text-primary-600 dark:text-primary-400 mr-4">
-                  <Mail size={20} />
+              <div className="space-y-4">
+                {/* Email Section */}
+                <div className="flex items-center">
+                  <div className="w-12 h-12 rounded-full bg-primary-100 dark:bg-primary-900/50 flex items-center justify-center text-primary-600 dark:text-primary-400 mr-4">
+                    <Mail size={20} />
+                  </div>
+                  <div>
+                    <p className="text-sm text-gray-600 dark:text-gray-400 mb-1">Email</p>
+                    <div className="flex items-center">
+                      <p className="font-medium text-gray-800 dark:text-white">
+                        shivamchodisetty333@example.com
+                      </p>
+                      <button
+                        onClick={() => copyEmail('shivamchodisetty333@example.com')}
+                        className="ml-2 p-1 text-gray-500 hover:text-primary-500 transition-colors"
+                        aria-label="Copy email"
+                      >
+                        <Copy size={16} />
+                      </button>
+                    </div>
+                  </div>
                 </div>
-                <div>
-                  <p className="text-sm text-gray-600 dark:text-gray-400 mb-1">Email</p>
-                  <div className="flex items-center">
-                    <p className="font-medium text-gray-800 dark:text-white">
-                      shivamchodisetty333@example.com
-                    </p>
-                    <button
-                      onClick={() => copyEmail('email@example.com')}
-                      className="ml-2 p-1 text-gray-500 hover:text-primary-500 transition-colors"
-                      aria-label="Copy email"
-                    >
-                      <Copy size={16} />
-                    </button>
+
+                {/* Mobile Number Section */}
+                <div className="flex items-center">
+                  <div className="w-12 h-12 rounded-full bg-primary-100 dark:bg-primary-900/50 flex items-center justify-center text-primary-600 dark:text-primary-400 mr-4">
+                    <Phone size={20} />
+                  </div>
+                  <div>
+                    <p className="text-sm text-gray-600 dark:text-gray-400 mb-1">Phone</p>
+                    <div className="flex items-center">
+                      <p className="font-medium text-gray-800 dark:text-white">
+                        +91 93816 77518
+                      </p>
+                      <button
+                        onClick={() => copyPhone('+919381677518')}
+                        className="ml-2 p-1 text-gray-500 hover:text-primary-500 transition-colors"
+                        aria-label="Copy phone"
+                      >
+                        <Copy size={16} />
+                      </button>
+                    </div>
                   </div>
                 </div>
               </div>
+
 
               <div>
                 <p className="text-xl font-semibold mb-4 text-gray-800 dark:text-white">
