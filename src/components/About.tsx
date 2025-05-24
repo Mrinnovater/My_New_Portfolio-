@@ -31,7 +31,11 @@ const About: React.FC = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
           >
             <div className="flex items-center gap-6 mb-8">
-              <img href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfGlXv3LtlJtn0nC4bTH_wVxWd6vvC-tDTTw&s" style="height:200px; width:100px"></img>
+              <img
+                src={about.profileImage}
+                alt={about.name}
+                className="w-32 h-32 rounded-full object-cover border-4 border-white dark:border-gray-800 shadow-lg"
+              />
               <div>
                 <h3 className="text-2xl font-semibold text-gray-800 dark:text-white">
                   {about.name}
