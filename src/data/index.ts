@@ -191,7 +191,10 @@ export const socials: Social[] = [
 
 export const about = {
   name: 'Venkata Shiva Sri Chodisetty',
-  title: 'Frontend Developer | Backend Developer | AI & ML Enthusiast',
+
+ 
+
+  title: 'Frontend Developer | Backend Developer | AI & ML Enthusiast | Problem Solver | Smart Working Personality | Intern at NXT Wave | Intern at Google for Developers',
   description: `As a dedicated B.Tech student and AI & ML enthusiast, I have been consistently sharpening my skills in coding and software development sector through rigid practice and real-time projects. Eager to Apply My Skills in Innovative & Creative Software Development and AI & ML.
 My passion for AI & ML has led me to build innovative projects during my internship at NxtWave, Google for Developers and I have also developed a range of projects showcased on my GitHub profile.`,
   education: {
@@ -201,7 +204,7 @@ My passion for AI & ML has led me to build innovative projects during my interns
     year: '2022 - 2026',
   },
   resumeLink: 'https://drive.google.com/uc?export=view&id=1qN-5WamqIpQMK6phdQNVJAmwES53s8PN',
-  profileImage: 'https://media.licdn.com/dms/image/v2/D5603AQGBELZL4BSFqw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1721129495477?e=2147483647&v=beta&t=8jeOXiE7TmwDCZDzAA98YkC_w-GrLOK_Zjh_D-llCKo',
+  profileImage: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fch-venkata-shiva-sri-976245296&psig=AOvVaw1WkmP8PGV63UvHRljvZWRK&ust=1748095250922000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCUobnguY0DFQAAAAAdAAAAABAE',
   location: 'Kodad, Suryapet District, Telangana, India',
   languages: ['English', 'Hindi', 'Telugu'],
   interests: ['Artificial Intelligence', 'Machine Learning', 'Web Development', 'Innovative Researchs'],
